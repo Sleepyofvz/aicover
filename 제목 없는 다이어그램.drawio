@@ -1,9 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2023-09-07T11:21:51.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.2" etag="ahHocpqax7sEzH3HQ373" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-07T11:54:07.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="u89qNaY4F3GVlE6L3XJM" version="21.7.2" type="github">
   <diagram name="페이지-1" id="NaQrlNTR5xWnxjP-neUY">
-    <mxGraphModel>
+    <mxGraphModel dx="2225" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ck25M7POL_OMQd_8qIc2-1" target="Ck25M7POL_OMQd_8qIc2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-1" value="&lt;h5 style=&quot;unicode-bidi: isolate; line-height: 32px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word; color: rgb(32, 33, 36);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;오디오 데이터세트&lt;/font&gt;&lt;/h5&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ck25M7POL_OMQd_8qIc2-2" target="Ck25M7POL_OMQd_8qIc2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-2" value="&lt;pre style=&quot;unicode-bidi: isolate; line-height: 32px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word; color: rgb(32, 33, 36);&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;번역&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;소음청소&lt;/font&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ck25M7POL_OMQd_8qIc2-4" target="Ck25M7POL_OMQd_8qIc2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-4" value="&lt;pre style=&quot;unicode-bidi: isolate; font-size: 14px; line-height: 32px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word; color: rgb(32, 33, 36);&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;번역&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;오디오 분할&lt;/pre&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ck25M7POL_OMQd_8qIc2-6" target="Ck25M7POL_OMQd_8qIc2-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-6" value="&lt;pre style=&quot;unicode-bidi: isolate; line-height: 32px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word; color: rgb(32, 33, 36);&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;번역&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;훈련&lt;/font&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ck25M7POL_OMQd_8qIc2-10" target="Ck25M7POL_OMQd_8qIc2-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-10" value="&lt;pre style=&quot;unicode-bidi: isolate; line-height: 32px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word; color: rgb(32, 33, 36);&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;번역&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;추론&lt;/span&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ck25M7POL_OMQd_8qIc2-12" target="Ck25M7POL_OMQd_8qIc2-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-12" value="&lt;pre style=&quot;unicode-bidi: isolate; line-height: 32px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word; color: rgb(32, 33, 36);&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;번역&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;유튜브 뮤직비디오&lt;/font&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ck25M7POL_OMQd_8qIc2-13" target="Ck25M7POL_OMQd_8qIc2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-13" value="&lt;pre style=&quot;unicode-bidi: isolate; line-height: 32px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word; color: rgb(32, 33, 36); font-size: 14px;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;번역&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;pre style=&quot;unicode-bidi: isolate; line-height: 32px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;번역&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;WAV 다운로드&lt;br&gt;(yt_dlp)&lt;/pre&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ck25M7POL_OMQd_8qIc2-14" target="Ck25M7POL_OMQd_8qIc2-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ck25M7POL_OMQd_8qIc2-14" target="Ck25M7POL_OMQd_8qIc2-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-14" value="&lt;pre style=&quot;unicode-bidi: isolate; line-height: 32px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word; color: rgb(32, 33, 36); font-size: 14px;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;번역&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;pre style=&quot;unicode-bidi: isolate; line-height: 114%; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;번역&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;별도의 보컬 및 악기&lt;br&gt;(데뮤크)&lt;/pre&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ck25M7POL_OMQd_8qIc2-15" target="Ck25M7POL_OMQd_8qIc2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-15" value="&lt;pre style=&quot;unicode-bidi: isolate; line-height: 32px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word; color: rgb(32, 33, 36);&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;번역&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;보컬&lt;/font&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="294" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-16" value="&lt;pre style=&quot;unicode-bidi: isolate; line-height: 32px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word; color: rgb(32, 33, 36);&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;번역&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;악기&lt;/font&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ck25M7POL_OMQd_8qIc2-22" target="Ck25M7POL_OMQd_8qIc2-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-22" value="&lt;pre style=&quot;unicode-bidi: isolate; line-height: 32px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word; color: rgb(32, 33, 36);&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;번역&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;pre style=&quot;unicode-bidi: isolate; line-height: 32px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;번역&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;악기 다시 추가&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ck25M7POL_OMQd_8qIc2-24" value="&lt;pre style=&quot;unicode-bidi: isolate; line-height: 32px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word; color: rgb(32, 33, 36);&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;번역&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;pre style=&quot;unicode-bidi: isolate; line-height: 32px; border: none; padding: 2px 0.14em 2px 0px; position: relative; margin-top: -2px; margin-bottom: -2px; resize: none; font-family: inherit; overflow: hidden; width: 270.014px; overflow-wrap: break-word;&quot; dir=&quot;ltr&quot; id=&quot;tw-target-text&quot; data-placeholder=&quot;번역&quot; class=&quot;tw-data-text tw-text-large tw-ta&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;결과&lt;/span&gt;&lt;/pre&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="70" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
