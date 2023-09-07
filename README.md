@@ -1,3 +1,5 @@
+https://colab.research.google.com/drive/1LBE283wxR5HDUtRUWsEzQsS-bWY0-2vf#scrollTo=RWk6EKflAvAS
+
 # aicover
 초보개발자 ai음성
 
